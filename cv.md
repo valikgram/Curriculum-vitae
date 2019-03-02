@@ -26,6 +26,6 @@ https://www.codecademy.com/users/valikgram/achievements
 2. The course "Modern Front-End with using javascript and html5" - IT Academy Belhard - **2016**
 
 ---
-ENGLISH LEVEL<br>
+## ENGLISH LEVEL<br>
 A2 (Pre-intermediate)<br>
 I study on courses International House
