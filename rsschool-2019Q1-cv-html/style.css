@@ -1,0 +1,87 @@
+body {
+    font-size: 16px;
+    background-image: url("assets/background.jpg");
+    padding: 0;
+    margin: 0;
+}
+
+@font-face {
+    font-family: Helvetica;
+    src: url(assets/fonts/HelveticaNeueCyr-UltraLight.ttf);
+}
+
+header {
+    position: relative;
+    width: 1024px;
+    height: 50px;
+    border-radius: 5px;
+    background: #c6c6c6;
+    margin: auto;
+}
+h1 {
+    margin: 0;
+}
+
+.name {
+    font-family: Helvetica;
+    position: relative;
+    font-size: 25px;
+    font-weight: 400;
+    text-align: center;
+    padding: 9px;
+    letter-spacing: 6px;
+}
+
+
+.main-info {
+    position: relative;
+    top: 10px;
+    width: 1024px;
+    height: 500px;
+    border-radius: 5px;
+    background-color: rgba(229, 229, 229, 0.8);
+    margin: auto;
+}
+
+section img {
+    position: relative;
+    left: 50px;
+    top: 35px;
+    width: 200px;
+    border: solid 1px;
+    border-color: #adadad;
+    border-radius: 5px;
+}
+
+article {
+font-family: Helvetiсa;
+    position: relative;
+    padding: 0px 85px 0px 135px;
+    margin: -287px 16px 11px 242px;
+}
+
+h2 {
+    font-size: 2em;
+}
+
+.summary {
+    font-family: Helvetica;
+    text-align: justify;
+    font-size: 1.3em;
+    font-weight: 500;
+}
+
+.contacts a {
+    text-decoration: none;
+    color: black;
+    opacity: 1;
+} 
+
+.contacts a:hover {
+    opacity: 0.5;
+}
+
+div.icons img {
+    width: 20px;
+    border: none;
+}
