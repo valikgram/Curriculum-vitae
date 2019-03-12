@@ -2,7 +2,7 @@
 Minsk, Belarus | work.v@mail.ru | +375 (29) 323-68-85
 
 ---
-## PERSONAL SUMARY<br>
+## PERSONAL SUMMARY<br>
 A great desire to learn something new was always in my priority. Reliable, capable, ready for anything. I have a great interest in hard and beautiful web interfaces and mobile applications. Excellent communication skills and able to work alongside another teams. I am looking for a company in which my knowledge will be useful and where there will be an opportunity to gain experience in large projects.
 
 ---
