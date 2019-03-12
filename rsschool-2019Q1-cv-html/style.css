@@ -200,7 +200,7 @@ h2 {
     position: absolute;
     margin-top: 15px;
     margin-left: 330px;
-    transition: all 500ms;
+    transition: all 1s;
 }
 
 .htmlacademy a svg{
@@ -215,7 +215,7 @@ h2 {
     position: absolute;
     margin-top: 24px;
     margin-left: 540px;
-    transition: all 500ms;
+    transition: all 1s;
 }
 
 .codecademy:hover {
