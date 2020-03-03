@@ -1,9 +1,9 @@
 ## DZMITRY VALKOVICH<br>
-Minsk, Belarus | work.v@mail.ru | +375 (29) 323-68-85
+Minsk, Belarus | valikgra@gmail.com | +375 (29) 323-68-85
 
 ---
 ## PERSONAL SUMMARY<br>
-A great desire to learn something new was always in my priority. Reliable, capable, ready for anything. I have a great interest in hard and beautiful web interfaces and mobile applications. Excellent communication skills and able to work alongside another teams. I am looking for a company in which my knowledge will be useful and where there will be an opportunity to gain experience in large projects.
+A great desire to learn something new was always in my priority. Reliable, capable, ready for anything. I have a great interest in hard and beautiful web interfaces and mobile applications. I have excellent communication skills and able to work alongside another teams. I am looking for a company in which my knowledge will be useful and where there will be an opportunity to gain experience in large projects.
 
 ---
 
@@ -13,7 +13,7 @@ HTML | CSS | JAVASCRIPT | GIT | ASANA | TRELLO | 1C BITRIX | PHOTOSHOP | VSCODE
 ---
 
 ## CODE EXAMPLES<br>
-https://cafeconnect.by/promo/iphone-x/
+PSD Markup - https://github.com/valikgram/hexal
 
 ---
 ## EXPERIENCE<br>
@@ -28,4 +28,4 @@ https://www.codecademy.com/users/valikgram/achievements
 ---
 ## ENGLISH LEVEL<br>
 A2 (Pre-intermediate)<br>
-I study on courses International House
+I finished courses International House
