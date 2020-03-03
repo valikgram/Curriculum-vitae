@@ -1,1 +1,1 @@
-https://valikgram.github.io/rsschool-2019Q1-cv/cv
+https://valikgram.github.io/Curriculum-vitae/
